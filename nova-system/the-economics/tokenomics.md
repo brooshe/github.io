@@ -2,50 +2,47 @@
 
 
 
-**1. Mountain Sea Coin（游戏中的Utility Token， 暂名：MSC）**
+**1. Mountain Sea Coin（Utility Token，Temporary name ：MSC）**
 
-**-** 获得：玩家可以通过游戏内的活动、任务和通关结算获得MSC，激励玩家参与游戏并完成各种挑战。
+* **Acquisition**: Players earn MSC through in-game activities, missions, and session settlements, incentivizing active participation and completion of various challenges.
+* **Base Fund Pool**: MSC is supported by in-game purchase revenue, with mechanisms for minting and burning to maintain token value stability.
+* **Uses**: MSC is used for in-game expenses such as minting fees, profit sharing, governance participation, purchasing tickets, and bidding on NFTs.
 
-\- 基础资金池：基于游戏内购收入，设计增发与销毁机制，确保代币价值稳定。
+**2. Diverse NFTs in Mountainseas**
 
-\- 用途：用于游戏内消耗如支付铸造费，获取游戏收益分红、参与治理、购买门票和参与NFT竞拍等活动。
+* **NFT Minting**: Based on in-game equipment, items, and development results, NFTs are minted to enhance scarcity and uniqueness.
+* **Liquidity Mechanisms**: Using PMM (Proactive Market Maker) buybacks and NFTfi collateral leasing to maintain NFT liquidity and market value.
 
-**2. 山海多样化NFT**
-
-\- NFT铸造模式：基于游戏内装备、道具、养成结果等可交易资产铸造NFT，增加稀缺性和独特性。
-
-\- 流动性机制：通过PMM（主动做市商协议）回购和NFTfi抵押租赁，保持NFT的流动性和市场价值。
-
-**3 金融工具**
+**3 . Financial Tools**
 
 **3.1. DeFi**
 
-\- MSCUSD 铸造：玩家可通过质押MSC代币铸造MSCUSD，支持游戏内经济的稳定性。
-
-\- 稳定币池：采用USDT/MSCUSD稳定币机制，减少货币波动对游戏经济的影响。
+* **MSCUSD Minting**: Players can stake MSC to mint MSCUSD, supporting the game's economic stability.
+* **Stablecoin Pool**: Using a USDT/MSCUSD stablecoin mechanism to reduce the impact of currency fluctuations on the game economy.
 
 **3.2. GameFi**
 
-\- PMM主动做市系统：解决NFT流动性低的问题。NFT因其非同质化和难以定价的特性，往往面临流动性低的问题。通过PMM系统，资金池的全部资金都归做市商所有，游戏开发者可以根据他的判断为NFT游戏资产灵活定价，并通过盈利池为NFT资产兜底，确保市场价格的稳定性。
+* **PMM Proactive Market Making System**: Addresses the low liquidity issue of NFTs. The entire fund pool belongs to market makers, allowing flexible pricing of NFT game assets by game developers and ensuring market price stability through a profit pool.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-**3.3. NFT借贷系统**
+**3.3. NFT Lending System**
 
-NFTfi是一个点对点NFT抵押贷款市场，允许NFT所有者以完全去信任的方式，从点对点的流动性提供者那里获得有担保的项目代币贷款，从而使用他们拥有的资产来获得需要的流动性。
-
-交易市场提供NFTfi的功能允许玩家自发性的去组织资产的基于使用需求的流动，激发经济系统自我修复的能力的同时， 也进一步的细化各自在山海经济系统中扮演的角色。
+* **NFTfi**: A peer-to-peer NFT collateral loan market that allows NFT owners to obtain secured project token loans from peer liquidity providers, enhancing asset liquidity. This feature allows players to organize asset flow based on usage needs, fostering self-repair capabilities within the economic system and further refining their roles within the Mountainseas economic system.
 
 ![](../../.gitbook/assets/2.png)
 
-**3.4. 创新机制**
+**3.4. Innovative Mechanisms**
 
-**- 动态生态系统**：根据玩家行为和选择调整资源产出，保持生态平衡，资源的产出受供需关系进行平衡。
+* **Dynamic Ecosystem**: Adjusts resource production based on player behavior and choices to maintain ecological balance.
+* **On-Chain Alchemy**: Players can synthesize or decompose resources on-chain, adding depth and strategy to the game. ERC1155 protocol allows a single smart contract to manage multiple types of tokens, offering batch transfers, support for divisible tokens and NFTs, cost-efficiency, flexibility, and upgradability.
 
-**- 链上炼金术：**玩家可通过链上操作合成或分解资源，增加游戏深度和策略性。
+![](../../.gitbook/assets/3.png)
 
-ERC1155协议下发行的代币允许一个智能合约管理多种类型的代币。它的特点包括批量转账、支持可拆分Token和NFT、成本效益、灵活性和可升级性。![](../../.gitbook/assets/3.png)
 
-**- 跨游戏经济：**支持多链互操作性，允许玩家在不同游戏间交易和使用NFT资产，扩大应用场景。也作为对外部优质的游戏社群的互动及引流。
 
-通过这些设计，《山海》在Web3游戏经济系统中创造了一个平衡、可持续且充满活力的Token经济体系，为玩家提供丰富的玩法和经济收益。
+**Cross-Game Economy**: Supports multi-chain interoperability, allowing players to trade and use NFT assets across different games, expanding application scenarios and interacting with external quality game communities for better engagement and traffic.
+
+
+
+Through these designs, "Mountainseas" creates a balanced, sustainable, and vibrant token economic system within the Web3 game economy, providing players with rich gameplay and economic benefits.

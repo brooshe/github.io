@@ -1,29 +1,27 @@
 # 🧑‍🤝‍🧑 Community
 
-**社群运营**
+**Community Operation**
 
-**4.1 - NFT白名单任务机制**
+**4.1 - NFT Whitelist Task Mechanism**
 
-通过任务机制刺激用户行为和社交媒体曝光，增加社区参与度和活跃度。以下是具体的方法：
+Stimulate user behavior and social media exposure through tasks, increasing community participation and activity. Specific methods include:
 
-· Discord参与：积极参与Discord社区并引入新成员。
+* **Discord Participation**: Actively engage in the Discord community and invite new members.
+* **Original Works**: Create original works that meet the project’s needs and style, such as artwork or videos.
+* **Social Media**: Create memes or stickers related to the project for more exposure on social media platforms.
+* **Substantive Suggestions**: Offer substantive suggestions. If adopted, you may receive whitelist status, aligning with DAO principles.
+* **Influencer Collaboration**: Partner with social media influencers or well-known figures, trading whitelist status for promotional channels and influence.
+* **Project Tasks**: Assist with project tasks like translation services or community management.
+* **Community Activities**: Participate in project activities such as quizzes, games, and raffles. Common ways to engage include retweeting, following, and tagging friends on social media.
+* **Early Joiners**: Join the Discord community early to potentially receive whitelist status as an early member.
 
-· 原创作品：为项目方创建符合需求和风格的原创作品，如艺术设计或视频。
+**4.2 -** **Community Airdrops and Smart Contract Rewards**
 
-· 社交媒体：创作与项目相关的meme或表情包，在自媒体平台获得更多曝光。
+Utilize DeCPS distribution mechanisms to quickly launch the Web3 community. Initial airdrop activities can distribute tokens to many users, increasing project liquidity and visibility.
 
-· 实质性建议：提出实质性建议，如果被采纳，可能会获得白名单资格，符合DAO的原则。
+* **Airdrop Activities**: Automate airdrops via smart contracts to ensure fairness and transparency.
+* **Lottery Mechanisms**: Implement smart contract-based lotteries to attract more user participation and attention.
 
-· 影响力合作：与社交媒体影响力者或知名人士合作，用白名单资格交换推广渠道和影响力。
-
-· 项目任务：帮助项目方完成任务，如翻译服务或社群管理工作。
-
-· 社区活动：积极参与项目方的活动，如答题、游戏和抽奖。转发推特、关注和@三位朋友参与抽奖。
-
-· 早期加入：在项目初期立即加入Discord，早期成员可能会直接获得白名单资格。
-
-**4.2 - 社区空投和智能合约抽奖**
-
-结合DeCPS分发引流机制，快速实现Web3社区冷启动。配合项目初期的空投活动可以让大量用户拥有代币，增加项目流动性和关注度。
+These measures aim to enhance engagement and activity within the "Mountainseas" community, building a vibrant and interactive Web3 community.
 
 ![](../.gitbook/assets/4.png)

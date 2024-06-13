@@ -1,10 +1,10 @@
 # 💰 The Economics
 
-《山海》的经济体系通过结合多样化的NFT种类和串联游戏内经济循环的功能代币（Utility Token），打造一个可持续的经济循环体系，使游戏内外资产流动更加自由和高效，确保游戏的长期健康发展。
+The economic system of "Mountainseas" creates a sustainable economic cycle by combining diverse types of NFTs with a utility token that interconnects the in-game economy. This ensures a more free and efficient flow of assets within and outside the game, promoting long-term health and growth.
+
+The token design for "Shanhai" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
 
-
-《山海》的代币设计旨在创造一个平衡和可持续的游戏经济生态系统，确保玩家和投资者的长期参与和收益。
 
 ![图形用户界面
 
@@ -12,11 +12,5 @@
 
 
 
-山海的游戏围绕局外的内购养成，和局内的探索、养成、抵御兽潮入侵、完成结算展开。产生的资源按照产生的位置分为“局外”部分及“局内”部分。
 
-**其中局外部分产生的资源包含(配上资源生成图，原来的太大了，不好插入）：**
-
-
-
-整体上，通过将金币改为MSC，并将角色、装备、道具等优化为NFT，《山海》构建了一个基于Web3技术的全新经济体系，为玩家提供了更高的资产流动性和价值，确保游戏内外经济的健康发展和长期收益。
 

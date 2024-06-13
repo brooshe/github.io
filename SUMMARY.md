@@ -5,7 +5,7 @@
 * [📖 Introduction](README.md)
 * [🎮 Game Features](game-overview/game-features/README.md)
   * [🎲 Rouglike Builds](game-overview/game-features/rouglike-builds.md)
-  * [🗺️ Exploration](game-overview/game-features/exploration.md)
+  * [🗺️ Map Exploration](game-overview/game-features/map-exploration.md)
   * [⚔️ Combat](game-overview/game-features/combat.md)
   * [🏰 Constriction](game-overview/game-features/constriction.md)
   * [⚒️ Crafting](game-overview/game-features/crafting.md)
@@ -19,10 +19,10 @@
   * [📚 Principles](nova-system/the-economics/principles.md)
   * [⚖️ Resources](nova-system/the-economics/resources.md)
   * [💹 Tokenomics](nova-system/the-economics/tokenomics.md)
-* [🏪 Marketplace](nova-system/marketplace.md)
-* [🤖 AIGC](nova-system/aigc.md)
 * [🧑‍🤝‍🧑 Community](nova-system/community.md)
 
 ## APPENDIX
 
-* [Backup Info -备份信息](appendix/backup-info-bei-fen-xin-xi.md)
+* [Backup Info -](appendix/backup-info/README.md)
+  * [🏪 Marketplace](appendix/backup-info/marketplace.md)
+  * [🤖 AIGC](appendix/backup-info/aigc.md)

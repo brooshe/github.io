@@ -1,131 +1,109 @@
 # ⚖️ Resources
 
-## **资源的产出与消耗**
+**Resource Production and Consumption**
 
-山海的游戏围绕局外的内购养成，和局内的探索、养成、抵御兽潮入侵、完成结算展开。产生的资源按照产生的位置分为“局外”部分及“局内”部分。
+The gameplay in "Mountainseas" revolves around opening sessions similar to launching instances, where players can engage in "in-session" exploration, development, and combat. After a session ends, there are settlement rewards, and players return to the game lobby, referred to as "out-session," for item purchases, social interactions, and character development.
 
-**其中局外部分产生的资源包含(配上资源生成图，原来的太大了，不好插入）：**
 
-### **装备（NFT）**
 
-\- 描述：提供玩家局内数值和特殊被动。
+<figure><img src="../../.gitbook/assets/1718261099251.jpg" alt=""><figcaption></figcaption></figure>
 
-\- 基础效果：装等、品质、词条、套装效果、强化等级。
+**Out-Session Resources**
 
-\- 强化
+1. **Equipment (NFT)**
 
-\- 养成：强化武器等级，提升属性。
+* **Description**: Provides in-game stats and special passives.
+* **Basic Effects**: Level, quality, attributes, set effects, enhancement levels.
+* **Enhancement**:
+  * **Development**: Upgrade weapon levels to enhance attributes.
+  * **Required**: Enhancement stones (NFT).
+* **Recasting**:
+  * **Development**: Replace attributes to improve quality.
+  * **Required**: Recasting stones (NFT).
+* **Transfer**:
+  * **Development**: Inherit equipment attributes.
+  * **Required**: Transfer stones (NFT).
 
-\- 需要：装备强化石（NFT）。
+### &#x20;**2.**Heroes (NFT)
 
-\- 洗练
+* **Required**: Obtained through prayers (purchased with MSC: in-game purchase token).
+* **Development**: Improve the exclusive appearance and effects of heroes and skins, enhancing in-session attributes and development efficiency.
 
-\- 养成：替换词条，提升词条品质。
+### &#x20;**3. Pets（NFT）**
 
-\- 需要：洗练石（NFT）。
+* **Required**: Obtained through prayers (purchased with MSC).
+* **Development**: Enhance combat effects and pet appearance.
 
-\- 转移
+### **4. Collectibles（NFT）**
 
-\- 养成：继承装备词条。
+* **Required**: Obtained through prayers and events.
+* **Development**: Enhance in-session attributes and development efficiency.
 
-\- 需要：转移石（NFT）。
+### **5.** Seasonal Artifacts
 
-### &#x20;**英雄（NFT）**
+* **Description**: Obtained through in-session reward stages, different difficulties yield different exclusive artifacts.
+* **Required**: Artifact fragments (NFT).
+* **Development**: Enhance in-session attributes and development efficiency, provide special passives.
 
-\- 需要：通过祈福（用MSC购买）获得。
+### &#x20;**6.** Achievements
 
-\- 养成：提升英雄和皮肤的专属外观和特效，增强局内玩家属性和养成效率。
+* **Required**: Achievement points.
+* **Rewards**: Attribute rewards, material rewards, rights items (NFT).
 
-### &#x20;**宠物（NFT）**
+### &#x20;**7.** Prayers
 
-\- 需要：通过祈福（用MSC购买）获得。
+* **Hero Prayer Pool**: Produces heroes, hero fragments, character skins, skin fragments, weapon skins (all NFTs).
+  * **Required**: MSC.
+* **Rights Prayer Pool**: Produces pets and pet fragments (all NFTs).
+  * **Required**: MSC.
+* **Equipment Prayer Pool**: Produces enhancement stones, recasting stones, transfer stones (all NFTs).
+  * **Required**: MSC.
 
-\- 养成：提升战斗特效和宠物外观。
+### **8 .Events**
 
-### **收集品（NFT）**
+**Battle Pass**: Produces limited rights (NFT), MSC, and various development materials (NFT).
 
-\- 需要：通过祈福和活动获得。
+**In-Session Resources：**
 
-\- 养成：增强局内玩家属性和养成效率。
+### **1.** Divine Skills
 
-### **赛季养成神器**
+* **Description**: Hero's multi-directional development skills.
+* **Development**: Skill upgrade paths, consume divine skill items (NFT).
 
-\- 描述：通过局内奖励关卡获得，不同难度获取不同难度的专属神器。
+### **2. Crystals**
 
-\- 需要：神器道具碎片（NFT形式）。
+* **Description**: Provides resource acquisition efficiency and basic attributes.
+* **Source**: Obtained from camps or purchased in the Tree of Life shop, consuming MSC .
 
-\- 养成：提升局内玩家属性和养成效率，提供特殊被动。
+### **3.** Talismans
 
-### &#x20;**成就**
+* **Description**: Equipment with fixed slots, upgradable or replaceable.
+* **Development**: Provides special passives, consumes talisman items (NFT).
 
-\- 需要：成就点。
+### **4.** Health Potions
 
-\- 获得：属性奖励、材料奖励、权益道具（NFT形式）。
+* **Description**: Provides health recovery for players, with a carrying limit.
+* **Development**: Improve potion recovery effects and carrying capacity, consuming life seeds (NFT).
+* **Effect**: Restores player health.
 
-### &#x20;**祈福**
 
-\- 角色祈福池：产出英雄、英雄碎片、角色皮肤、皮肤碎片、武器皮肤（均为NFT）。
 
-\- 需要：MSC。
+### **5.** Tree of Life Upgrades
 
-\- 权益祈福池：产出宠物和宠物碎片（均为NFT）。
+* **Description**: Increases the base's health.
+* **Required**: Tree of Life experience.
+* **Development**: Enhance Tree of Life attributes and player effects, purchasing crystals with MSC to gain experience.
 
-\- 需要：MSC。
+### **6 .** Settlement Rewards
 
-\- 装备祈福池：产出强化石、洗练石、转移石（均为NFT）。
+* **Normal Settlement**:
+  * **Rewards**: MSC, platform currency, summoner experience, equipment, equipment development materials, enhancement stones (NFT).
+* **Reward Settlement**:
+  * **Rewards**: Artifact fragments (NFT), platform resources, MSC, prayer items (NFT), character proficiency, synthesis fragments, equipment development materials (NFT).
+*   **Synthesis Fragments Production**:
 
-\- 需要：MSC。
+    * **Source**: Normal prayer pool, equipment obtained through settlements and decomposed, event/battle pass rewards (all NFTs).
 
-### **活动**
 
-\- 战令：产出限时权益（NFT）、MSC和各种养成材料（NFT）。
 
-**其中局内产生的资源包含(配上资源生成图）：**
-
-### **神技**
-
-\- 描述：英雄自带技能多方向的养成。
-
-\- 养成：技能升级线，消耗神技道具（NFT形式）。
-
-### **晶石**
-
-\- 描述：提供资源获取效率和基础属性。
-
-\- 来源：营地获得或在建木商店购买，消耗MSC（游戏内货币）。
-
-### **法宝**
-
-\- 描述：固定装备位限制的，可替换/升级的装备。
-
-\- 养成：提供特殊被动，消耗法宝道具（NFT形式）。
-
-### **血瓶养成**
-
-\- 描述：提供玩家回血的技能道具，有携带数上限。
-
-\- 养成：提升血瓶回复效果和携带数量，消耗生命种子（NFT形式）。
-
-\- 作用：回复玩家生命值。
-
-### **建木升级**
-
-\- 描述：提供基地的血量。
-
-\- 需要：建木经验。
-
-\- 养成：提升建木属性和玩家特效，通过消耗MSC购买晶石获得经验。
-
-### &#x20;**通关结算**
-
-\- 正常通关结算
-
-\- 获得：MSC、平台通用货币、召唤师经验、装备、装备养成材料、强化石（NFT）。
-
-\- 奖励关结算
-
-\- 获得：神器道具碎片（NFT）、平台资源、MSC、祈福道具（NFT）、角色熟练度、合成碎片、装备养成材料（NFT）等。
-
-\- 合成碎片产出
-
-\- 来源：普通祈福池、通关获得装备后分解、活动/祈福战令获得（均为NFT）。
+By converting gold into MSC and optimizing characters, equipment, and items into NFTs, "Mountainseas" creates a new economic system based on Web3 technology, offering players higher asset liquidity and value, ensuring healthy economic development and long-term benefits both in-session and out-session.

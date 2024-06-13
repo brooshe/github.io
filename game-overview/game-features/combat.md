@@ -1,8 +1,6 @@
 # ⚔️ Combat
 
-## 爽快战斗 Exciting Battles
-
-玩家可以选择不同的英雄，每个英雄会携带不同的武器，具有不同的战斗特性和技能。同时，在玩家探索地图的过程中，会遇到具有不同特点的怪物并与之战斗。
+## &#x20;Exciting Battles
 
 Players can choose different heroes, each of which will carry different weapons and have different combat characteristics and skills. Meanwhile, during the process of exploring the map, players will encounter monsters with different characteristics and fight with them.
 
@@ -10,7 +8,7 @@ Players can choose different heroes, each of which will carry different weapons 
 
 <figure><img src="../../.gitbook/assets/EE7CD87E-B241-47aa-B881-D470B86F06FE.jpg" alt=""><figcaption><p>Martial Artist</p></figcaption></figure>
 
-更要与强大的BOSS进行厮杀
+
 
 What's more, you'll have to fight against powerful bosses!
 
