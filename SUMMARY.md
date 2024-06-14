@@ -24,7 +24,7 @@
 ## APPENDIX
 
 * [Backup Info -](appendix/backup-info/README.md)
-  * [AMOs](appendix/backup-info/amos.md)
+  * [⚙️ AMOs](appendix/backup-info/amos.md)
   * [📈 TWAMM](appendix/backup-info/twamm.md)
   * [🏪 Marketplace](appendix/backup-info/marketplace.md)
   * [🤖 AIGC](appendix/backup-info/aigc.md)
