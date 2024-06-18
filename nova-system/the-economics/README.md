@@ -4,5 +4,5 @@ The economic system of "Mountainseas" creates a sustainable economic cycle by co
 
 The token design for "Mountainseas" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
