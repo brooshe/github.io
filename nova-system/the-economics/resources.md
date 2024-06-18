@@ -10,6 +10,12 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 **Out-Session Resources**
 
+
+
+![](../../.gitbook/assets/0.png)
+
+
+
 1. **Equipment (NFT)**
 
 * **Description**: Provides in-game stats and special passives.

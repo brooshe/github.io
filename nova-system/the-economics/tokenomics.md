@@ -1,5 +1,25 @@
 # 💹 Tokenomics
 
+We do not concentrate too much on the specific number of tokens to be incorporated in the game, whether it is a 2-token model or a 3-token model. Instead, our focus lies in delivering value to various types of users.
+
+In the past or even currently, many GameFi or Crypto games tend to mix different users together or merely employ Ponzi-scheme-based gamification. We strive to develop a more balanced and value-driven approach for all participants.
+
+We divide users into 3 categories in our crypto game
+
+* Defi users
+* GameFi user
+* Players
+
+The token economic model of the moutainseas maximizes the Defi model, modern corporate governance and the operation mechanism of the stock system, allowing Defi users, GameFi users and players to coexist, compete, collaborate in a healthy way.
+
+The benefits of all parties to some extent form a better positive cycle for the entire product.
+
+The game is divided into three flywheels to meet the needs of different user profiles while isolating them to a certain degree, thereby achieving the long-term healthy development of the entire game product.
+
+The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel.
+
+
+
 
 
 **1. Mountain Sea Coin（Utility Token，Temporary name ：MSC）**
