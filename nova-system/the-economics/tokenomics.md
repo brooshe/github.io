@@ -1,3 +1,10 @@
+---
+description: >-
+  IGT（In-Game-Taxation），incentivize the ecological flywheel is to allow top
+  players to realize their desire to get rich through the huge profits generated
+  from in-game organic transactions, making them
+---
+
 # 💹 Tokenomics
 
 We do not concentrate too much on the specific number of tokens to be incorporated in the game, whether it is a 2-token model or a 3-token model. Instead, our focus lies in delivering value to various types of users.
@@ -16,7 +23,7 @@ The benefits of all parties to some extent form a better positive cycle for the 
 
 The game is divided into three flywheels to meet the needs of different user profiles while isolating them to a certain degree, thereby achieving the long-term healthy development of the entire game product.
 
-The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel.
+The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, token locking, governance, and buybacks。&#x20;
 
 
 
