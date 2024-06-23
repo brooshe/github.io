@@ -1,11 +1,12 @@
 ---
 description: >-
-  IGT（In-Game-Taxation），incentivize the ecological flywheel is to allow top
-  players to realize their desire to get rich through the huge profits generated
-  from in-game organic transactions, making them
+  IGT（In-Game-Taxation），taxes can serve as a powerful incentive layer that stays
+  within the game and creates a larger flywheel.
 ---
 
 # 💹 Tokenomics
+
+The proper method to spur the ecological flywheel through tax incentives is to empower top-tier players to fulfill their aspiration for wealth accumulation through substantial earnings derived from the game's organic transactions, thereby becoming a source of admiration and envy among the player community.
 
 We do not concentrate too much on the specific number of tokens to be incorporated in the game, whether it is a 2-token model or a 3-token model. Instead, our focus lies in delivering value to various types of users.
 
@@ -23,7 +24,7 @@ The benefits of all parties to some extent form a better positive cycle for the 
 
 The game is divided into three flywheels to meet the needs of different user profiles while isolating them to a certain degree, thereby achieving the long-term healthy development of the entire game product.
 
-The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, token locking, governance, and buybacks。&#x20;
+The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, Token Locking, Governance, and Buybacks。&#x20;
 
 
 
