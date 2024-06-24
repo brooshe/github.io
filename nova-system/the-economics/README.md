@@ -2,6 +2,8 @@
 
 The economic system of "Mountainseas" creates a sustainable economic cycle by combining diverse types of NFTs with a utility token that interconnects the in-game economy. This ensures a more free and efficient flow of assets within and outside the game, promoting long-term health and growth.
 
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Economic Model</p></figcaption></figure>
+
 The token design for "Mountainseas" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
 1. **Leveraging Public and Game-Theoretically Guaranteed Source of Truth**: This refers to using a decentralized, transparent, and verifiable system as the foundation for recording and validating game-related data. In the context of blockchain, this "source of truth" is often the blockchain itself, which provides an immutable ledger of transactions and states.
@@ -19,6 +21,3 @@ Here's how these elements come together in a Web3 game:
 * **Incentives and Governance**: Players may also participate in the governance of the game, voting on decisions that affect the game's development and economy. This can be facilitated through token-based governance systems where players hold tokens that give them voting rights.
 
 By leveraging these technologies and concepts, Web3 games aim to create a more player-centric ecosystem where players have greater control over their in-game assets and can derive real economic value from them. This shift is part of a broader movement towards decentralization and empowerment in the digital gaming space.
-
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
-
