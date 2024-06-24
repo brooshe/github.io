@@ -24,6 +24,7 @@
 ## APPENDIX
 
 * [Backup Info -](appendix/backup-info/README.md)
+  * [👛 Particle](appendix/backup-info/particle.md)
   * [ℹ️ BLOG: Financial Infra for Crypto Games](appendix/backup-info/blog-financial-infra-for-crypto-games.md)
   * [⚙️ AMOs](appendix/backup-info/amos.md)
   * [📈 TWAMM](appendix/backup-info/twamm.md)

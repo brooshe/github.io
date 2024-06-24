@@ -24,7 +24,7 @@ The game design clearly provides value to users, including entertainment experie
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Maslow's hierarchy of needs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Maslow's hierarchy of needs</p></figcaption></figure>
 
 ### Division of Labor
 
