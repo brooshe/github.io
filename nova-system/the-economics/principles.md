@@ -1,6 +1,10 @@
+---
+description: >-
+  Open Trade& IGT (In-Game Taxation) ,the new flywheel of web3 games under the
+  IGT business model, that is, the top-level get-rich-quick game.
+---
+
 # 📚 Principles
-
-
 
 ### &#x20;Focusing on Needs
 
