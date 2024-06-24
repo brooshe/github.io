@@ -7,9 +7,9 @@ The economic system of "Mountainseas" creates a sustainable economic cycle by co
 The token design for "Mountainseas" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
 1. **Leveraging Public and Game-Theoretically Guaranteed Source of Truth**: This refers to using a decentralized, transparent, and verifiable system as the foundation for recording and validating game-related data. In the context of blockchain, this "source of truth" is often the blockchain itself, which provides an immutable ledger of transactions and states.
-2. **Cost-Explicit Value Ownership**: This concept suggests that the ownership of in-game assets should be explicitly recognized and should come with quantifiable costs. Players should be able to understand the value of their assets and the costs associated with acquiring, maintaining, or enhancing them.
-3. **Transfer Rights**: Transfer rights imply that players have the ability to transfer or trade their in-game assets with others. This could be within the game, on secondary markets, or through other platforms that facilitate the exchange of digital assets.
-4. **Players**: The focus is on empowering players by giving them control over their assets. This includes the right to own, transfer, and benefit from their in-game assets.
+2. **Cost-Explicit Value**: This concept suggests that the ownership of in-game assets should be explicitly recognized and should come with quantifiable costs. Players should be able to understand the value of their assets and the costs associated with acquiring, maintaining, or enhancing them.
+3. **Free Transfer Rights**: Transfer rights imply that players have the ability to transfer or trade their in-game assets with others. This could be within the game, on secondary markets, or through other platforms that facilitate the exchange of digital assets.
+4. **Players Ownership**: The focus is on empowering players by giving them control over their assets. This includes the right to own, transfer, and benefit from their in-game assets.
 
 In the context of Web3 games, these concepts are often realized through the use of non-fungible tokens (NFTs) and smart contracts. NFTs can represent unique in-game assets, and smart contracts can enforce the rules for ownership, transfer, and value exchange in a transparent and trustless manner.
 
