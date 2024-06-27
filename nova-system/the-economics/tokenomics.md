@@ -54,13 +54,7 @@ The three flywheels are the Defi flywheel, the GameFi flywheel and the Player fl
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-**3.3. NFT Lending System**
-
-* **NFTfi**: A peer-to-peer NFT collateral loan market that allows NFT owners to obtain secured project token loans from peer liquidity providers, enhancing asset liquidity. This feature allows players to organize asset flow based on usage needs, fostering self-repair capabilities within the economic system and further refining their roles within the Mountainseas economic system.
-
-![](../../.gitbook/assets/2.png)
-
-**3.4. Innovative Mechanisms**
+**3.3. Innovative Mechanisms**
 
 * **Dynamic Ecosystem**: Adjusts resource production based on player behavior and choices to maintain ecological balance.
 * **On-Chain Alchemy**: Players can synthesize or decompose resources on-chain, adding depth and strategy to the game. ERC1155 protocol allows a single smart contract to manage multiple types of tokens, offering batch transfers, support for divisible tokens and NFTs, cost-efficiency, flexibility, and upgradability.
