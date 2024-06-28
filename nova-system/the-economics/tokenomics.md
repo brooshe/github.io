@@ -50,9 +50,9 @@ The three flywheels are the Defi flywheel, the GameFi flywheel and the Player fl
 
 **3.2. GameFi**
 
-* **PMM Proactive Market Making System**: Addresses the low liquidity issue of NFTs. The entire fund pool belongs to market makers, allowing flexible pricing of NFT game assets by game developers and ensuring market price stability through a profit pool.
+*   **PMM Proactive Market Making System**: Addresses the low liquidity issue of NFTs. The entire fund pool belongs to market makers, allowing flexible pricing of NFT game assets by game developers and ensuring market price stability through a profit pool.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 **3.3. Innovative Mechanisms**
 
