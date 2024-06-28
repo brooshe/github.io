@@ -1,8 +1,6 @@
 # 🌏 Cross-Platform
 
-
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CrossPlatform.png" alt=""><figcaption></figcaption></figure>
 
 The Moutainseas supports mobile and PC interoperability for co-play.&#x20;
 

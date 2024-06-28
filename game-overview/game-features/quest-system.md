@@ -1,8 +1,6 @@
 # 📜 Quest System
 
-##
-
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/QuestSystem.png" alt=""><figcaption></figcaption></figure>
 
 **Cooperative Quests**:&#x20;
 
