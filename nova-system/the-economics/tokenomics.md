@@ -59,7 +59,7 @@ The three flywheels are the Defi flywheel, the GameFi flywheel and the Player fl
 * **Dynamic Ecosystem**: Adjusts resource production based on player behavior and choices to maintain ecological balance.
 * **On-Chain Alchemy**: Players can synthesize or decompose resources on-chain, adding depth and strategy to the game. ERC1155 protocol allows a single smart contract to manage multiple types of tokens, offering batch transfers, support for divisible tokens and NFTs, cost-efficiency, flexibility, and upgradability.
 
-![](../../.gitbook/assets/3.png)
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 
 
