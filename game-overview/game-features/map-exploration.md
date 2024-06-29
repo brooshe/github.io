@@ -1,7 +1,5 @@
 # 🗺️ Map Exploration
 
-##
-
 The world of Moutainseas consists of multiple layers of maps, and players need to unlock the seals of the maps and travel back and forth to explore them.
 
 <figure><img src="../../.gitbook/assets/image (5).jpg" alt=""><figcaption><p>Choose map</p></figcaption></figure>
