@@ -2,7 +2,7 @@
 
 #### Equipment Development
 
-en a single game victory is settled, players can obtain bonus equipment and bring it back to the game lobby.
+When a single game victory is settled, players can obtain bonus equipment and bring it back to the game lobby.
 
 <figure><img src="../../.gitbook/assets/WPS图片(1).jpg" alt=""><figcaption><p>Rewards</p></figcaption></figure>
 

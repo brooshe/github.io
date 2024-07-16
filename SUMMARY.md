@@ -3,6 +3,8 @@
 ## GAME OVERVIEW
 
 * [📖 Introduction](README.md)
+  * [Charaters](game-overview/introduction/charaters.md)
+  * [Monsters /  Ancient Beasts](game-overview/introduction/monsters-ancient-beasts.md)
 * [🎮 Game Features](game-overview/game-features/README.md)
   * [🎲 Rouglike Builds](game-overview/game-features/rouglike-builds.md)
   * [🗺️ Map Exploration](game-overview/game-features/map-exploration.md)
@@ -16,7 +18,6 @@
 ## NOVA SYSTEM
 
 * [💰 The Economics](nova-system/the-economics/README.md)
-  * [📚 Principles](nova-system/the-economics/principles.md)
   * [⚖️ Resources](nova-system/the-economics/resources.md)
   * [💹 Tokenomics](nova-system/the-economics/tokenomics.md)
 * [🧑‍🤝‍🧑 Community](nova-system/community.md)
@@ -28,5 +29,3 @@
   * [ℹ️ BLOG: Financial Infra for Crypto Games](appendix/backup-info/blog-financial-infra-for-crypto-games.md)
   * [⚙️ AMOs](appendix/backup-info/amos.md)
   * [📈 TWAMM](appendix/backup-info/twamm.md)
-  * [🏪 Marketplace](appendix/backup-info/marketplace.md)
-  * [🤖 AIGC](appendix/backup-info/aigc.md)

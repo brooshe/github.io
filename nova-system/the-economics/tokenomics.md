@@ -24,29 +24,43 @@ The benefits of all parties to some extent form a better positive cycle for the 
 
 The game is divided into three flywheels to meet the needs of different user profiles while isolating them to a certain degree, thereby achieving the long-term healthy development of the entire game product.
 
-The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, Token Locking, Governance, and Buybacks。&#x20;
+The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, Token Locking, Governance, and Buybacks.&#x20;
 
 
 
+**1. Black Warrior Coin（Utility Token，Temporary name ：BWC）**
 
+**"Black Warrior"** also named as "Black Tortoise", it is often depicted as a tortoise entwined with a snake and is one of the Four Symbols (四象) in Chinese constellations, representing the northern direction and the winter season. In ancient China, tortoise shells were once used as currency, adding a historical depth to the game's economic system.
 
-**1. Mountain Sea Coin（Utility Token，Temporary name ：MSC）**
-
-* **Acquisition**: Players earn MSC through in-game activities, missions, and session settlements, incentivizing active participation and completion of various challenges.
-* **Base Fund Pool**: MSC is supported by in-game purchase revenue, with mechanisms for minting and burning to maintain token value stability.
-* **Uses**: MSC is used for in-game expenses such as minting fees, profit sharing, governance participation, purchasing tickets, and bidding on NFTs.
+* **Acquisition**: Players earn BWC through in-game activities, missions, and session settlements, incentivizing active participation and completion of various challenges.
+* **Base Fund Pool**: BWC is supported by in-game purchase revenue, with mechanisms for minting and burning to maintain token value stability.
+* **Uses**: BWC is used for in-game expenses such as minting fees, profit sharing, governance participation, purchasing tickets, and bidding on NFTs.
 
 **2. Diverse NFTs in Mountainseas**
 
 * **NFT Minting**: Based on in-game equipment, items, and development results, NFTs are minted to enhance scarcity and uniqueness.
 * **Liquidity Mechanisms**: Using PMM (Proactive Market Maker) buybacks and NFTfi collateral leasing to maintain NFT liquidity and market value.
 
+The vast world of Mountainseas is all-encompassing, offering countless weapons, equipment, runes, and pets for players to explore and collect. The upgrade and synthesis of items are closely integrated with the concepts of NFT upgrading, synthesis, and burning to maintain item scarcity and balance within the game world. This includes examples such as weapon upgrades, rune enhancements, and recasting, as illustrated below.
+
+
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Equipment NFT+material NFT= upgraded Equipment</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Runes NFT+Material NFT/BWC = new Runes NFT</p></figcaption></figure>
+
+
+
+
+
 **3 . Financial Tools**
 
 **3.1. DeFi**
 
-* **MSCUSD Minting**: Players can stake MSC to mint MSCUSD, supporting the game's economic stability.
-* **Stablecoin Pool**: Using a USDT/MSCUSD stablecoin mechanism to reduce the impact of currency fluctuations on the game economy.
+* **MSCUSD Minting**: Players can stake BWC to mint BWCUSD, supporting the game's economic stability.
+* **Stablecoin Pool**: Using a USDT/BWCUSD stablecoin mechanism to reduce the impact of currency fluctuations on the game economy.
 
 **3.2. GameFi**
 

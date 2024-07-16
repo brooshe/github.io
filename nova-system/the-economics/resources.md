@@ -8,6 +8,8 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 <figure><img src="../../.gitbook/assets/1718261099251.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 **Out-Session Resources**
 
 1. **Equipment (NFT)**
@@ -26,12 +28,12 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 ### &#x20;**2.**Heroes (NFT)
 
-* **Required**: Obtained through prayers (purchased with MSC: in-game purchase token).
+* **Required**: Obtained through prayers **(purchased with BWC: in-game purchase token which will be introduced in the next session )**.
 * **Development**: Improve the exclusive appearance and effects of heroes and skins, enhancing in-session attributes and development efficiency.
 
 ### &#x20;**3. Pets（NFT）**
 
-* **Required**: Obtained through prayers (purchased with MSC).
+* **Required**: Obtained through prayers (purchased with BWC).
 * **Development**: Enhance combat effects and pet appearance.
 
 ### **4. Collectibles（NFT）**
@@ -53,15 +55,17 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 ### &#x20;**7.** Prayers
 
 * **Hero Prayer Pool**: Produces heroes, hero fragments, character skins, skin fragments, weapon skins (all NFTs).
-  * **Required**: MSC.
+  * **Required**: BWC.
 * **Rights Prayer Pool**: Produces pets and pet fragments (all NFTs).
-  * **Required**: MSC.
+  * **Required**: BWC.
 * **Equipment Prayer Pool**: Produces enhancement stones, recasting stones, transfer stones (all NFTs).
-  * **Required**: MSC.
+  * **Required**: BWC.
 
 ### **8 .Events**
 
 **Battle Pass**: Produces limited rights (NFT), MSC, and various development materials (NFT).
+
+
 
 **In-Session Resources：**
 
@@ -73,7 +77,7 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 ### **2. Crystals**
 
 * **Description**: Provides resource acquisition efficiency and basic attributes.
-* **Source**: Obtained from camps or purchased in the Tree of Life shop, consuming MSC .
+* **Source**: Obtained from camps or purchased in the Tree of Life shop, consuming BWC .
 
 ### **3.** Talismans
 
@@ -92,18 +96,18 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 * **Description**: Increases the base's health.
 * **Required**: Tree of Life experience.
-* **Development**: Enhance Tree of Life attributes and player effects, purchasing crystals with MSC to gain experience.
+* **Development**: Enhance Tree of Life attributes and player effects, purchasing crystals with BWC to gain experience.
 
 ### **6 .** Settlement Rewards
 
 * **Normal Settlement**:
-  * **Rewards**: MSC, platform currency, summoner experience, equipment, equipment development materials, enhancement stones (NFT).
+  * **Rewards**: BWC, platform currency, summoner experience, equipment, equipment development materials, enhancement stones (NFT).
 * **Reward Settlement**:
-  * **Rewards**: Artifact fragments (NFT), platform resources, MSC, prayer items (NFT), character proficiency, synthesis fragments, equipment development materials (NFT).
+  * **Rewards**: Artifact fragments (NFT), platform resources, BWC, prayer items (NFT), character proficiency, synthesis fragments, equipment development materials (NFT).
 *   **Synthesis Fragments Production**:
 
     * **Source**: Normal prayer pool, equipment obtained through settlements and decomposed, event/battle pass rewards (all NFTs).
 
 
 
-By converting gold into MSC and optimizing characters, equipment, and items into NFTs, "Mountainseas" creates a new economic system based on Web3 technology, offering players higher asset liquidity and value, ensuring healthy economic development and long-term benefits both in-session and out-session.
+By converting gold into BWC and optimizing characters, equipment, and items into NFTs, "Mountainseas" creates a new economic system based on Web3 technology, offering players higher asset liquidity and value, ensuring healthy economic development and long-term benefits both in-session and out-session.
