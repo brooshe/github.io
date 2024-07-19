@@ -8,21 +8,17 @@ In this world guarded by the Jianmu（name of the Live Tree）, players assume t
 
 The protagonists inherit Nuwa's beauty and power, typically possessing excellent physiques and handsome appearances. Their eyes gleam with wisdom, and the markings on their bodies symbolize Nuwa's divine power. These markings glow when they wield their power, showcasing their identity as the children of Live Tree and guardians of the world.
 
-Character A：
+**Qing Fang（晴方）** - Power of the Azure Dragon
 
-（英雄一，图片+神话故事背景+性格描述）
+<figure><img src="../../.gitbook/assets/晴方.jpg" alt=""><figcaption></figcaption></figure>
 
-Character B：
+**Fu Yu（浮玉）** - Power of the Black Tortoise
 
-（英雄二，图片+神话故事背景+性格描述）
+<figure><img src="../../.gitbook/assets/浮玉.png" alt=""><figcaption></figcaption></figure>
 
-Character C：
+**Chi Hua（赤华）** - Power of the Vermilion Bird
 
-（英雄三，图片+神话故事背景+性格描述）
-
-
-
-
+<figure><img src="../../.gitbook/assets/赤华.png" alt=""><figcaption></figcaption></figure>
 
 
 

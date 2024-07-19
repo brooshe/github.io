@@ -1,6 +1,6 @@
 # 📖 Introduction
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Over thousands of years, the world has transitioned from the brink of chaos back to order. The Jianmu tree (Live Tree）, rooted deeply between heaven and earth, has stabilized the fragmented small worlds, becoming a symbol of the new order in the Mountainseas universe. Although the divine war is now an ancient memory, its aftermath still casts a shadow over the world like a lingering mist.&#x20;
 

@@ -43,13 +43,9 @@ The three flywheels are the Defi flywheel, the GameFi flywheel and the Player fl
 
 The vast world of Mountainseas is all-encompassing, offering countless weapons, equipment, runes, and pets for players to explore and collect. The upgrade and synthesis of items are closely integrated with the concepts of NFT upgrading, synthesis, and burning to maintain item scarcity and balance within the game world. This includes examples such as weapon upgrades, rune enhancements, and recasting, as illustrated below.
 
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Equipment NFT+Materials NFT=upgraded Equipment NFT</p></figcaption></figure>
 
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Equipment NFT+material NFT= upgraded Equipment</p></figcaption></figure>
-
-
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Runes NFT+Material NFT/BWC = new Runes NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Runes NFT+Material NFT/BWC = new Runes NFT</p></figcaption></figure>
 
 
 
