@@ -6,7 +6,7 @@
   * [Characters](game-overview/introduction/characters.md)
   * [Monsters /  Ancient Beasts](game-overview/introduction/monsters-ancient-beasts.md)
 * [🎮 Game Features](game-overview/game-features/README.md)
-  * [🎲 Rouglike Builds](game-overview/game-features/rouglike-builds.md)
+  * [🎲 Rougelike Builds](game-overview/game-features/rougelike-builds.md)
   * [🗺️ Map Exploration](game-overview/game-features/map-exploration.md)
   * [⚔️ Combat](game-overview/game-features/combat.md)
   * [🏰 Construction](game-overview/game-features/construction.md)

@@ -4,7 +4,7 @@ The economic system of "Mountainseas" creates a sustainable economic cycle by co
 
 The token design for "Mountainseas" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/f5675bfa786fd876fd538922847cf4d.png" alt=""><figcaption></figcaption></figure>
 
 1. **Leveraging Public and Game-Theoretically Guaranteed Source of Truth**: This refers to using a decentralized, transparent, and verifiable system as the foundation for recording and validating game-related data. In the context of blockchain, this "source of truth" is often the blockchain itself, which provides an immutable ledger of transactions and states.
 2. **Cost-Explicit Value**: This concept suggests that the ownership of in-game assets should be explicitly recognized and should come with quantifiable costs. Players should be able to understand the value of their assets and the costs associated with acquiring, maintaining, or enhancing them.
