@@ -41,11 +41,17 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 * **Required**: Obtained through prayers and events.
 * **Development**: Enhance in-session attributes and development efficiency.
 
-### **5.** Seasonal Artifacts
+### **5.** Seasonal Artifacts（ **Mythical** Battle Pass）
 
-* **Description**: Obtained through in-session reward stages, different difficulties yield different exclusive artifacts.
-* **Required**: Artifact fragments (NFT).
-* **Development**: Enhance in-session attributes and development efficiency, provide special passives.
+* **Description**: **MountainSea's Mythical Battle Pass** offers players the chance to obtain exclusive items, game rewards, and access to special gameplay modes.&#x20;
+* **Required**: BWC
+* **Development**: With each level of the Battle Pass, players unlock new rewards and opportunities, adding depth and excitement to their adventure in the mystical world of MountainSea.
+
+**Exclusive Items**: Gain unique and limited-edition equipment with random attributes.
+
+**Enhanced Rewards**: Earn increased game rewards, including rare materials for crafting and upgrading gear.
+
+**Special Gameplay Access**: Unlock entry to unique gameplay modes and challenges, providing additional opportunities to collect rare items and enhance your character's abilities.
 
 ### &#x20;**6.** Achievements
 
@@ -63,7 +69,9 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 ### **8 .Events**
 
-**Battle Pass**: Produces limited rights (NFT), MSC, and various development materials (NFT).
+&#x20;Produces limited rights (NFT), BWC, and various development materials (NFT).
+
+
 
 
 

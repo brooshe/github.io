@@ -1,4 +1,8 @@
-# 🗺️ Map Exploration
+---
+description: Explore an Open World Inspired by Oriental Mythology
+---
+
+# 🗺️ Open World Exploration
 
 The world of Moutainseas consists of multiple layers of maps, and players need to unlock the seals of the maps and travel back and forth to explore them.
 

@@ -1,8 +1,8 @@
-# Monsters /  Ancient Beasts
+# Monsters -Drawing from ancient mythology
 
 **Monsters /** **Ancient beasts** **Setting in "Mountainseas"**
 
-We can see many renowned ancient mythical beasts from the legends of the "Shan Hai Jing" come to life in our game world, engaging in fierce battles with players on this grand stage, leaving a profound impact on the hearts of every Mountainseas player.
+In the game "MountainSea," players will encounter legendary ancient beasts from the "Classic of Mountains and Seas." Unlike traditional monsters, these mythical creatures possess supernatural abilities and unique appearances. The game faithfully recreates their classic mythological forms, promising to leave a lasting impression on players. Drawing from ancient mythology, these mythical beasts enrich the game's immersive experience and bring the fascinating legends to life.
 
 **Bi Fang（毕方）**：
 
