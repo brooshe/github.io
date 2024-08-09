@@ -12,7 +12,7 @@ Bi Fang is a mythical creature from ancient Chinese mythology, residing on Zhang
 
 
 
-**Jumang（句芒）：**
+**Goumang（句芒）-"Green Emperor" （青帝）：**
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,9 +20,9 @@ Jumang is an important deity in ancient Chinese mythology, known as the God of S
 
 
 
-&#x20;**Duo（犭多）：**
+&#x20;**Tuo（犭多）：**
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-In the "Classic of Mountains and Seas: Central Mountains, Section Eleven: Xian Mountain," a creature known as 犭多 (Duo) is described as a disaster beast, whose appearance often portends the occurrence of fires. Duo is depicted as resembling a membrane dog, with a red mouth and eyes, and a white tail. This beast is mentioned multiple times in the "Classic of Mountains and Seas," emphasizing its association with fire disasters.
+In the "Classic of Mountains and Seas: Central Mountains, Section Eleven: Xian Mountain," a creature known as 犭多 (Tuo) is described as a disaster beast, whose appearance often portends the occurrence of fires. Duo is depicted as resembling a membrane dog, with a red mouth and eyes, and a white tail. This beast is mentioned multiple times in the "Classic of Mountains and Seas," emphasizing its association with fire disasters.
 

@@ -2,7 +2,7 @@
 
 **Community Operation**
 
-**4.1 - NFT Whitelist Task Mechanism**
+**1. NFT Whitelist Task Mechanism**
 
 Stimulate user behavior and social media exposure through tasks, increasing community participation and activity. Specific methods include:
 
@@ -15,7 +15,7 @@ Stimulate user behavior and social media exposure through tasks, increasing comm
 * **Community Activities**: Participate in project activities such as quizzes, games, and raffles. Common ways to engage include retweeting, following, and tagging friends on social media.
 * **Early Joiners**: Join the Discord community early to potentially receive whitelist status as an early member.
 
-**4.2 -** **Community Airdrops and Smart Contract Rewards**
+**2 .** **Community Airdrops and Smart Contract Rewards**
 
 Utilize DeCPS distribution mechanisms to quickly launch the Web3 community. Initial airdrop activities can distribute tokens to many users, increasing project liquidity and visibility.
 
