@@ -1,6 +1,6 @@
 # Characters-Inheritance of Oriental Elegance
 
-#### Character Setting in "Mountainseas"
+#### Character Setting in "MountainSea"
 
 In this world guarded by the Jianmu（name of the Live Tree）, players assume the role of members of the Lingqi（灵祈） tribe, demigod warriors created by Nuwa herself, entrusted with the sacred mission of protecting the world.
 

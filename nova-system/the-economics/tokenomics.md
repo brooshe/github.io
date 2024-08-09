@@ -18,13 +18,13 @@ We divide users into 3 categories in our crypto game
 * GameFi user
 * Players
 
-The token economic model of the moutainseas maximizes the Defi model, modern corporate governance and the operation mechanism of the stock system, allowing Defi users, GameFi users and players to coexist, compete, collaborate in a healthy way.
+The token economic model of the MoutainSea maximizes the Defi model, modern corporate governance and the operation mechanism of the stock system, allowing Defi users, GameFi users and players to coexist, compete, collaborate in a healthy way.
 
 The benefits of all parties to some extent form a better positive cycle for the entire product.
 
 The game is divided into three flywheels to meet the needs of different user profiles while isolating them to a certain degree, thereby achieving the long-term healthy development of the entire game product.
 
-The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**O**mnipool）, Token Locking, Governance, and Buybacks.&#x20;
+The three flywheels are the Defi flywheel, the GameFi flywheel and the Player flywheel，which combine a new economic model for crypto games involving AMM（**Omnipool**）, Token Locking, Governance, and Buybacks.&#x20;
 
 
 
@@ -36,18 +36,16 @@ The three flywheels are the Defi flywheel, the GameFi flywheel and the Player fl
 * **Base Fund Pool**: BWC is supported by in-game purchase revenue, with mechanisms for minting and burning to maintain token value stability.
 * **Uses**: BWC is used for in-game expenses such as minting fees, profit sharing, governance participation, purchasing tickets, and bidding on NFTs.
 
-**2. Diverse NFTs in Mountainseas**
+**2. Diverse NFTs in MountainSea**
 
 * **NFT Minting**: Based on in-game equipment, items, and development results, NFTs are minted to enhance scarcity and uniqueness.
 * **Liquidity Mechanisms**: Using PMM (Proactive Market Maker) buybacks and NFTfi collateral leasing to maintain NFT liquidity and market value.
 
-The vast world of Mountainseas is all-encompassing, offering countless weapons, equipment, runes, and pets for players to explore and collect. The upgrade and synthesis of items are closely integrated with the concepts of NFT upgrading, synthesis, and burning to maintain item scarcity and balance within the game world. This includes examples such as weapon upgrades, rune enhancements, and recasting, as illustrated below.
+The vast world of MountainSea is all-encompassing, offering countless weapons, equipment, runes, and pets for players to explore and collect. The upgrade and synthesis of items are closely integrated with the concepts of NFT upgrading, synthesis, and burning to maintain item scarcity and balance within the game world. This includes examples such as weapon upgrades, rune enhancements, and recasting, as illustrated below.
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Equipment NFT+Materials NFT=upgraded Equipment NFT</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Runes NFT+Material NFT/BWC = new Runes NFT</p></figcaption></figure>
-
-
 
 
 
@@ -71,10 +69,6 @@ The vast world of Mountainseas is all-encompassing, offering countless weapons, 
 
 <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
-
-
 **Cross-Game Economy**: Supports multi-chain interoperability, allowing players to trade and use NFT assets across different games, expanding application scenarios and interacting with external quality game communities for better engagement and traffic.
 
-
-
-Through these designs, "Mountainseas" creates a balanced, sustainable, and vibrant token economic system within the Web3 game economy, providing players with rich gameplay and economic benefits.
+Through these designs, "MountainSea" creates a balanced, sustainable, and vibrant token economic system within the Web3 game economy, providing players with rich gameplay and economic benefits.

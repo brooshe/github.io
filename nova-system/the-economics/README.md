@@ -1,8 +1,8 @@
 # 💰 The Economics
 
-The economic system of "Mountainseas" creates a sustainable economic cycle by combining diverse types of NFTs with a utility token that interconnects the in-game economy. This ensures a more free and efficient flow of assets within and outside the game, promoting long-term health and growth.
+The economic system of "MountainSea" creates a sustainable economic cycle by combining diverse types of NFTs with a utility token that interconnects the in-game economy. This ensures a more free and efficient flow of assets within and outside the game, promoting long-term health and growth.
 
-The token design for "Mountainseas" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
+The token design for "MountainSea" aims to create a balanced and sustainable game economic ecosystem, ensuring long-term participation and returns for both players and investors.
 
 **Multi-Layer Dungeon Challenge**: To support the economic system, the game introduces representative gameplay such as the "Multi-Layer **Dungeon** Challenge." Players face choices after completing each challenge: take the rewards and exit, or risk them to enter a higher level with greater rewards. This ensures that the world of MountainSea is always filled with decisions and challenges.
 

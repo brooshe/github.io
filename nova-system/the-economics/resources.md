@@ -2,13 +2,11 @@
 
 **Resource Production and Consumption**
 
-The gameplay in "Mountainseas" revolves around opening sessions similar to launching instances, where players can engage in "in-session" exploration, development, and combat. After a session ends, there are settlement rewards, and players return to the game lobby, referred to as "out-session," for item purchases, social interactions, and character development.
+The gameplay in "MountainSea" revolves around opening sessions similar to launching instances, where players can engage in "in-session" exploration, development, and combat. After a session ends, there are settlement rewards, and players return to the game lobby, referred to as "out-session," for item purchases, social interactions, and character development.
 
 
 
 <figure><img src="../../.gitbook/assets/1718261099251.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 **Out-Session Resources**
 
@@ -98,8 +96,6 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 * **Development**: Improve potion recovery effects and carrying capacity, consuming life seeds (NFT).
 * **Effect**: Restores player health.
 
-
-
 ### **5.** Tree of Life Upgrades
 
 * **Description**: Increases the base's health.
@@ -118,4 +114,4 @@ The gameplay in "Mountainseas" revolves around opening sessions similar to launc
 
 
 
-By converting gold into BWC and optimizing characters, equipment, and items into NFTs, "Mountainseas" creates a new economic system based on Web3 technology, offering players higher asset liquidity and value, ensuring healthy economic development and long-term benefits both in-session and out-session.
+By converting gold into BWC and optimizing characters, equipment, and items into NFTs, "MountainSea" creates a new economic system based on Web3 technology, offering players higher asset liquidity and value, ensuring healthy economic development and long-term benefits both in-session and out-session.
