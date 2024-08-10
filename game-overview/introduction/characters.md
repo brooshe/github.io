@@ -1,4 +1,8 @@
-# Characters-Inheritance of Oriental Elegance
+---
+description: Inheritance of Oriental Elegance
+---
+
+# Characters
 
 #### Character Setting in "MountainSea"
 

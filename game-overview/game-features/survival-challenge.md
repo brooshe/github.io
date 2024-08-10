@@ -2,7 +2,7 @@
 description: Embark on an adventure inspired by Oriental mythological legends
 ---
 
-# 🎲 Copy of Survival Challenge:
+# ⚔️ Survival Challenge:
 
 "MountainSea" creates a challenging and thrilling open world based on Oriental mythological stories. The game is filled with mysterious islands, eerie wilderness, lurking beasts, and hidden dangers. Players must use strategy, skill, and teamwork to solve survival dilemmas and overcome numerous unknown challenges.
 

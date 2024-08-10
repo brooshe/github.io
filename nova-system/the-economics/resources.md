@@ -10,7 +10,7 @@ The gameplay in "MountainSea" revolves around opening sessions similar to launch
 
 **Out-Session Resources**
 
-1. **Equipment (NFT)**
+### **1. Equipment (NFT)**
 
 * **Description**: Provides in-game stats and special passives.
 * **Basic Effects**: Level, quality, attributes, set effects, enhancement levels.
@@ -24,7 +24,7 @@ The gameplay in "MountainSea" revolves around opening sessions similar to launch
   * **Development**: Inherit equipment attributes.
   * **Required**: Transfer stones (NFT).
 
-### &#x20;**2.**Heroes (NFT)
+### &#x20;**2.** Heroes (NFT)
 
 * **Required**: Obtained through prayers **(purchased with BWC: in-game purchase token which will be introduced in the next session )**.
 * **Development**: Improve the exclusive appearance and effects of heroes and skins, enhancing in-session attributes and development efficiency.

@@ -3,13 +3,13 @@
 ## GAME OVERVIEW
 
 * [📖 Introduction](README.md)
-  * [Characters-Inheritance of Oriental Elegance](game-overview/introduction/characters-inheritance-of-oriental-elegance.md)
-  * [Monsters -Drawing from ancient mythology](game-overview/introduction/monsters-drawing-from-ancient-mythology.md)
+  * [Characters](game-overview/introduction/characters.md)
+  * [Monsters](game-overview/introduction/monsters.md)
 * [🎮 Game Features](game-overview/game-features/README.md)
   * [🎲 Roguelike Build:](game-overview/game-features/roguelike-build.md)
-  * [🎲 Copy of Survival Challenge:](game-overview/game-features/copy-of-survival-challenge.md)
+  * [⚔️ Survival Challenge:](game-overview/game-features/survival-challenge.md)
   * [🗺️ Open World Exploration](game-overview/game-features/open-world-exploration.md)
-  * [⚔️ Pet Collection](game-overview/game-features/pet-collection.md)
+  * [🐱 Pet Collection](game-overview/game-features/pet-collection.md)
   * [🏰 Collection and Construction](game-overview/game-features/collection-and-construction.md)
   * [🤝 Multiplayer](game-overview/game-features/multiplayer.md)
   * [📜 Quest System](game-overview/game-features/quest-system.md)

@@ -2,7 +2,7 @@
 description: Pet Collection and Development
 ---
 
-# ⚔️ Pet Collection
+# 🐱 Pet Collection
 
 Drawing inspiration from the "Classic of Mountains and Seas," **MountainSea** features a vast world filled with mythical creatures. Players can collect these spiritual beasts through tasks, events, and capturing, taming them as pets to aid in exploration, combat, or completing specific achievement tasks.
 
